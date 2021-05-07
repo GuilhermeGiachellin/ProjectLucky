@@ -1,0 +1,11 @@
+#main-doc {
+    height:100px;
+    width:100px;
+  }
+  #navbar {
+    position: fixed;
+    width:250px;
+    height:100px;
+    text-align:center;
+  }
+  
